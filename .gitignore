@@ -1,0 +1,19 @@
+# General OS files
+.DS_Store
+Thumbs.db
+
+# Node.js (React frontend)
+game-ui/node_modules/
+game-ui/dist/
+game-ui/.env.local
+
+# Go (Backend)
+game-server/bin/
+game-server/tmp/
+game-server/.env
+game-server/go.sum
+game-server/go.mod
+
+# Logs & temp files
+*.log
+*.tmp
